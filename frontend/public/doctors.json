@@ -1,0 +1,218 @@
+[
+  {
+    "Name": "Dr. Sarah Khan",
+    "Speciality": "Cardiologist",
+    "Location": "Dhaka",
+    "VisitFee": 1500,
+    "Image": "https://i.ibb.co.com/nMtFVQ7/faq-img-removebg-preview.png",
+    "ContactNumber": "+8801712345678"
+  },
+  {
+    "Name": "Dr. Aminul Haque",
+    "Speciality": "Dermatologist",
+    "Location": "Chittagong",
+    "VisitFee": 1200,
+    "Image": "https://i.ibb.co.com/nMtFVQ7/faq-img-removebg-preview.png",
+    "ContactNumber": "+8801812345678"
+  },
+  {
+    "Name": "Dr. Tanvir Ahmed",
+    "Speciality": "Orthopedic Surgeon",
+    "Location": "Khulna",
+    "VisitFee": 1800,
+    "Image": "https://i.ibb.co.com/nMtFVQ7/faq-img-removebg-preview.png",
+    "ContactNumber": "+8801912345678"
+  },
+  {
+    "Name": "Dr. Nusrat Jahan",
+    "Speciality": "Pediatrician",
+    "Location": "Sylhet",
+    "VisitFee": 1300,
+    "Image": "https://i.ibb.co.com/nMtFVQ7/faq-img-removebg-preview.png",
+    "ContactNumber": "+8801719876543"
+  },
+  {
+    "Name": "Dr. Firoz Ali",
+    "Speciality": "General Physician",
+    "Location": "Rajshahi",
+    "VisitFee": 1000,
+    "Image": "https://i.ibb.co.com/nMtFVQ7/faq-img-removebg-preview.png",
+    "ContactNumber": "+8801612345678"
+  },
+  {
+    "Name": "Dr. Mizanur Rahman",
+    "Speciality": "Endocrinologist",
+    "Location": "Barisal",
+    "VisitFee": 1600,
+    "Image": "https://i.ibb.co.com/nMtFVQ7/faq-img-removebg-preview.png",
+    "ContactNumber": "+8801715678987"
+  },
+  {
+    "Name": "Dr. Shakil Ahmed",
+    "Speciality": "Neurosurgeon",
+    "Location": "Dhaka",
+    "VisitFee": 2500,
+    "Image": "https://i.ibb.co.com/nMtFVQ7/faq-img-removebg-preview.png",
+    "ContactNumber": "+8801712347890"
+  },
+  {
+    "Name": "Dr. Laila Yasmin",
+    "Speciality": "Gynecologist",
+    "Location": "Chittagong",
+    "VisitFee": 1400,
+    "Image": "https://i.ibb.co.com/nMtFVQ7/faq-img-removebg-preview.png",
+    "ContactNumber": "+8801812347890"
+  },
+  {
+    "Name": "Dr. Jahangir Alam",
+    "Speciality": "Psychiatrist",
+    "Location": "Rangpur",
+    "VisitFee": 2000,
+    "Image": "https://i.ibb.co.com/nMtFVQ7/faq-img-removebg-preview.png",
+    "ContactNumber": "+8801712349076"
+  },
+  {
+    "Name": "Dr. Nusrat Rahman",
+    "Speciality": "Ophthalmologist",
+    "Location": "Dhaka",
+    "VisitFee": 1500,
+    "Image": "https://i.ibb.co.com/nMtFVQ7/faq-img-removebg-preview.png",
+    "ContactNumber": "+8801715674321"
+  },
+  {
+    "Name": "Dr. Kamrul Islam",
+    "Speciality": "Urologist",
+    "Location": "Sylhet",
+    "VisitFee": 1700,
+    "Image": "https://i.ibb.co.com/nMtFVQ7/faq-img-removebg-preview.png",
+    "ContactNumber": "+8801712467890"
+  },
+  {
+    "Name": "Dr. Rahima Begum",
+    "Speciality": "Oncologist",
+    "Location": "Khulna",
+    "VisitFee": 2200,
+    "Image": "https://i.ibb.co.com/nMtFVQ7/faq-img-removebg-preview.png",
+    "ContactNumber": "+8801812348976"
+  },
+  {
+    "Name": "Dr. Faridul Islam",
+    "Speciality": "Neurologist",
+    "Location": "Comilla",
+    "VisitFee": 1900,
+    "Image": "https://i.ibb.co.com/nMtFVQ7/faq-img-removebg-preview.png",
+    "ContactNumber": "+8801912348907"
+  },
+  {
+    "Name": "Dr. Mahbub Hossain",
+    "Speciality": "Pulmonologist",
+    "Location": "Dhaka",
+    "VisitFee": 1600,
+    "Image": "https://i.ibb.co.com/nMtFVQ7/faq-img-removebg-preview.png",
+    "ContactNumber": "+8801712341234"
+  },
+  {
+    "Name": "Dr. Asma Akter",
+    "Speciality": "Radiologist",
+    "Location": "Chittagong",
+    "VisitFee": 1300,
+    "Image": "https://i.ibb.co.com/nMtFVQ7/faq-img-removebg-preview.png",
+    "ContactNumber": "+8801812345679"
+  },
+  {
+    "Name": "Dr. Abdullah Al Mamun",
+    "Speciality": "Nephrologist",
+    "Location": "Dhaka",
+    "VisitFee": 2100,
+    "Image": "https://i.ibb.co.com/nMtFVQ7/faq-img-removebg-preview.png",
+    "ContactNumber": "+8801714567890"
+  },
+  {
+    "Name": "Dr. Khaled Mahmud",
+    "Speciality": "Gastroenterologist",
+    "Location": "Sylhet",
+    "VisitFee": 1500,
+    "Image": "https://i.ibb.co.com/nMtFVQ7/faq-img-removebg-preview.png",
+    "ContactNumber": "+8801711234567"
+  },
+  {
+    "Name": "Dr. Jannat Ferdous",
+    "Speciality": "Psychologist",
+    "Location": "Rajshahi",
+    "VisitFee": 1100,
+    "Image": "https://i.ibb.co.com/nMtFVQ7/faq-img-removebg-preview.png",
+    "ContactNumber": "+8801612344567"
+  },
+  {
+    "Name": "Dr. Riaz Uddin",
+    "Speciality": "Hematologist",
+    "Location": "Khulna",
+    "VisitFee": 2300,
+    "Image": "https://i.ibb.co.com/nMtFVQ7/faq-img-removebg-preview.png",
+    "ContactNumber": "+8801715671234"
+  },
+  {
+    "Name": "Dr. Tasneem Khatun",
+    "Speciality": "Obstetrician",
+    "Location": "Dhaka",
+    "VisitFee": 1200,
+    "Image": "https://i.ibb.co.com/nMtFVQ7/faq-img-removebg-preview.png",
+    "ContactNumber": "+8801712348765"
+  },
+  {
+    "Name": "Dr. Sharmin Sultana",
+    "Speciality": "ENT Specialist",
+    "Location": "Chittagong",
+    "VisitFee": 1400,
+    "Image": "https://i.ibb.co.com/nMtFVQ7/faq-img-removebg-preview.png",
+    "ContactNumber": "+8801812348765"
+  },
+  {
+    "Name": "Dr. Imran Hossain",
+    "Speciality": "Rheumatologist",
+    "Location": "Barisal",
+    "VisitFee": 2500,
+    "Image": "https://i.ibb.co.com/nMtFVQ7/faq-img-removebg-preview.png",
+    "ContactNumber": "+8801712349876"
+  },
+  {
+    "Name": "Dr. Sabbir Rahman",
+    "Speciality": "Plastic Surgeon",
+    "Location": "Dhaka",
+    "VisitFee": 3000,
+    "Image": "https://i.ibb.co.com/nMtFVQ7/faq-img-removebg-preview.png",
+    "ContactNumber": "+8801712341122"
+  },
+  {
+    "Name": "Dr. Rizwana Akter",
+    "Speciality": "Allergist",
+    "Location": "Chittagong",
+    "VisitFee": 1400,
+    "Image": "https://i.ibb.co.com/nMtFVQ7/faq-img-removebg-preview.png",
+    "ContactNumber": "+8801812349987"
+  },
+  {
+    "Name": "Dr. Shohel Rana",
+    "Speciality": "Otolaryngologist",
+    "Location": "Sylhet",
+    "VisitFee": 1600,
+    "Image": "https://i.ibb.co.com/nMtFVQ7/faq-img-removebg-preview.png",
+    "ContactNumber": "+8801719876542"
+  },
+  {
+    "Name": "Dr. Khaleda Hossain",
+    "Speciality": "Hepatologist",
+    "Location": "Rajshahi",
+    "VisitFee": 1800,
+    "Image": "https://i.ibb.co.com/nMtFVQ7/faq-img-removebg-preview.png",
+    "ContactNumber": "+8801612349987"
+  },
+  {
+    "Name": "Dr. Fahim Ahmed",
+    "Speciality": "Immunologist",
+    "Location": "Dhaka",
+    "VisitFee": 2400,
+    "Image": "https://i.ibb.co.com/nMtFVQ7/faq-img-removebg-preview.png",
+    "ContactNumber":"+8801612349987"
+  }
+]
